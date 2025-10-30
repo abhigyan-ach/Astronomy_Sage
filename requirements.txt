@@ -1,0 +1,22 @@
+# Core Data Science Libraries
+pandas>=1.3.0
+numpy>=1.21.0
+
+# Astronomy Libraries
+astropy>=5.0.0
+astroquery>=0.4.6
+pyvo>=1.4.0
+healpy>=1.15.0
+mwdust>=1.0.0
+
+# Machine Learning Libraries
+scikit-learn>=1.0.0
+torch>=1.10.0
+
+# Visualization Libraries
+matplotlib>=3.4.0
+seaborn>=0.11.0
+
+# Optional: For improved performance
+# tables>=3.7.0  # For HDF5 file support
+# numexpr>=2.8.0  # For faster numerical operations
