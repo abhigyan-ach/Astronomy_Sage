@@ -1,6 +1,6 @@
 # AstroProject - Symbiotic Star Candidate Detection
 
-This repository contains a pipeline for identifying symbiotic star candidates from multi-survey astronomical data, combining data from SkyMapper, Gaia, 2MASS, and AllWISE surveys.
+This repository contains a pipeline for identifying symbiotic star candidates from multi-survey astronomical data, combining data from SkyMapper, Gaia, 2MASS, and AllWISE surveys. Created for a NeurIPS 20225 workshop paper, presented at the machine learning for physical sciences workshop.
 
 ## Project Overview
 
